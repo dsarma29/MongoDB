@@ -1,0 +1,15 @@
+_id,instructorID,name,expertise,courses[0],courses[1],rating
+671e52c8d3916aecb7acafec,101,Walter White,Data Science,1,11,4.8
+671e52c8d3916aecb7acafed,102,Sherlock Holmes,Data Science,2,14,4.6
+671e52c8d3916aecb7acafee,103,Tony Stark,"AI, Robotics",3,11,4.9
+671e52c8d3916aecb7acafef,104,Hermione Granger,Programming,4,13,4.7
+671e52c8d3916aecb7acaff0,105,Loki,Data Science,5,12,4.2
+671e52c8d3916aecb7acaff1,106,Darth Vader,"Arts, Communication",6,15,4.1
+671e52c8d3916aecb7acaff2,107,Michel Scott,"Business, Leadership",7,,4.4
+671e52c8d3916aecb7acaff3,108,Frodo Baggins,"IT, Communication",8,,4.3
+671e52c8d3916aecb7acaff4,109,Han Solo,Data Science,9,,4.6
+671e52c8d3916aecb7acaff5,110,Wonder Woman,Data Science,10,,4.8
+671e52c8d3916aecb7acaff6,111,Jim Halpart,"AI, Business",11,,4.9
+671e52c8d3916aecb7acaff8,113,Elizabeth Bennet,Data Science,13,,4.5
+671e52c8d3916aecb7acaff9,114,Albus Dumbledore,"Business, Communication",14,,4.9
+671e52c8d3916aecb7acaffa,115,Gandalf,"Communication, Leadership",15,,4.8

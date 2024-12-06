@@ -1,0 +1,12 @@
+_id,studentID,name,email,enrolledCourses[0].courseID,enrolledCourses[0].progress
+671e52fdb19217f771898ccb,201,John Doe,john@gmail.com,1,80
+671e52fdb19217f771898ccc,202,Jane Smith,jane.smith@gmail.com,2,50
+671e52fdb19217f771898ccd,203,Clark Kent,clark.kent@gmail.com,3,90
+671e52fdb19217f771898ccf,205,Dwight Schrute,dwight.schrute.stark@gmail.com,5,70
+671e52fdb19217f771898cd1,207,George Costanza,george.costanza@gmail.com,7,60
+671e52fdb19217f771898cd2,208,Katniss Everdeen,katniss.everdeen@gmail.com,8,50
+671e52fdb19217f771898cd4,210,Darth Vader,darth.vader@gmail.com,10,80
+671e52fdb19217f771898cd5,211,Walter White,walter.white@gmail.com,11,90
+671e52fdb19217f771898cd6,212,Sherlock Holmes,sherlock.holmes@gmail.com,12,100
+671e52fdb19217f771898cd7,213,Harry Potter,harry.potter@gmail.com,13,75
+671e52fdb19217f771898cd9,215,Monica Geller,monica.geller@gmail.com,15,55

@@ -1,0 +1,16 @@
+_id,courseID,title,category,price,instructorID,enrollmentCount
+671e504ec008592e51433b7f,1,Intro to Python,Programming,55,101,120
+671e504ec008592e51433b80,2,Data Science with R,Data Science,80,102,85
+671e504ec008592e51433b81,3,Machine Learning Basics,Data Science,105,103,90
+671e504ec008592e51433b82,4,Web Development,Programming,60,104,150
+671e504ec008592e51433b83,5,Quantum Physics,Physics,90,105,30
+671e504ec008592e51433b84,6,Graphic Design,Arts,70,106,45
+671e504ec008592e51433b85,7,Digital Marketing,Business,85,107,110
+671e504ec008592e51433b86,8,Cybersecurity Fundamentals,IT,120,108,60
+671e504ec008592e51433b87,9,Cloud Computing,IT,150,109,25
+671e504ec008592e51433b88,10,Data Visualization,Data Science,85,110,70
+671e504ec008592e51433b89,11,AI and Machine Learning,AI,200,111,40
+671e504ec008592e51433b8a,12,Introduction to SQL,Database,65,112,95
+671e504ec008592e51433b8b,13,Mobile App Development,Programming,110,113,50
+671e504ec008592e51433b8c,14,Entrepreneurship 101,Business,40,114,75
+671e504ec008592e51433b8d,15,Public Speaking Skills,Communication,55,115,30
